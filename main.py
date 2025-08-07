@@ -172,9 +172,4 @@ def parse_cookie_string(cookie_string):
 
 ---
 
-## ✅ Summary
-- ✅ Slack accounts now stored securely in Supabase (with Fernet encryption)
-- ✅ Campaigns can pull encrypted cookies by `account_id`
-- ✅ Ready to connect to your Supabase UI
-
-Let me know if you want to add message history logging or campaign stats next.
+#
